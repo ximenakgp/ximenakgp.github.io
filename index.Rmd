@@ -1,40 +1,45 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "**Karla Ximena González Platas**"
+image: "ximenafoto.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+  - label: Bluesky
+    url: "https://bsky.app/profile/ximenakgp.bsky.social"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/ximenakgp"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:ximenagp@lcg.unam.mx"
 output:
   postcards::trestles
 ---
  
-## Bio
+## **💜 About myself**
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+I am a Genomic Sciences student with a deep passion for researching the molecular mechanisms that govern life. I am driven by continuous learning and the exploration of new frontiers in science.
 
-## Education
+Although I am deeply interested in molecular biology, I am still exploring which research direction I would like to pursue, considering transcriptional regulation as one of the potential areas of focus. Additionally, I have a strong interest in astrobiology and the study of extremophiles, which are key to understanding life in extreme environments and its potential existence beyond Earth.
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+## **👩🏻‍🎓 Education**
 
-Ph.D. in Computer Science | September 2009 - May 2014
+**National Autonomous University of Mexico (UNAM)** | Morelos, MX
 
-**The University of California, Berkeley** | Berkeley, CA
+B.S. in Genomic Sciences <a href="https://www.lcg.unam.mx/"><span sytle="color=#515897;"> **LCG** </span></a> | August 2023 - Actually
 
-B.S. in Computer Science | September 2005 - May 2009
+**Antonio Audirac** | Puebla, MX
 
-## Experience
+High School | August 2020 - July 2023
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+## **🔬 Research Experience**
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Center for Genomic Sciences, UNAM** | Synthetic Biology | Ayari Fuentes- Hernández Lab|Undergraduate researcher | February 2024 - July 2024
+
+**Center for Genomic Sciences, UNAM** | Genomic Ecology | Esperanza Martínez-Romero | Undergraduate researcher | January 2024 - July 2024
+
+## **📚 Teaching Experience**
+
+Since 2023, I have been a biology teacher in the <a href="https://www.facebook.com/AdmisionaUNAM/about"><span sytle="color:#515897;"> **Admisión UNAM** </span></a> course, where I collaborate with other university students to prepare young individuals aspiring to enter the best universities in the country. Teaching is one of the most beautiful things I enjoy doing, as it allows me to share my passion for knowledge and witness the growth of my students.
+
+## **💌 Interests and Hobbies**
+
+I love painting 🎨, writing ✍️, science communication 🔬, programming 💻, music 🎻, and volleyball 🏐.
+
+***I am always looking for new opportunities to grow, collaborate, and share science.*** 
