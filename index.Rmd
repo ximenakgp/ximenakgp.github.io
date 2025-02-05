@@ -14,15 +14,15 @@ output:
  
 ## **💜 About myself**
 
-I am a Genomic Sciences student with a deep passion for researching the molecular mechanisms that govern life. I am driven by continuous learning and the exploration of new frontiers in science.
+I’m a Genomic Sciences student with a real passion for diving into the molecular mechanisms that make life tick. I love learning and am always eager to explore the next big thing in science.
 
-Although I am deeply interested in molecular biology, I am still exploring which research direction I would like to pursue, considering transcriptional regulation as one of the potential areas of focus. Additionally, I have a strong interest in astrobiology and the study of extremophiles, which are key to understanding life in extreme environments and its potential existence beyond Earth.
+I’ve got a strong interest in molecular biology, but I’m still figuring out exactly where I want to focus my research. Transcriptional regulation is one area that really grabs my attention, but I’m also super into astrobiology and studying extremophiles. These organisms are crucial for understanding how life can survive in the harshest environments—and maybe even what life might look like beyond Earth.
 
 ## **👩🏻‍🎓 Education**
 
 **National Autonomous University of Mexico (UNAM)** | Morelos, MX
 
-B.S. in Genomic Sciences <a href="https://www.lcg.unam.mx/"><span sytle="color=#515897;"> **LCG** </span></a> | August 2023 - Actually
+B.S. in Genomic Sciences <a href="https://www.lcg.unam.mx/"><span sytle="color=#515897;"> **LCG** </span></a> | August 2023 - Present
 
 **Antonio Audirac** | Puebla, MX
 
@@ -36,7 +36,7 @@ High School | August 2020 - July 2023
 
 ## **📚 Teaching Experience**
 
-Since 2023, I have been a biology teacher in the <a href="https://www.facebook.com/AdmisionaUNAM/about"><span sytle="color:#515897;"> **Admisión UNAM** </span></a> course, where I collaborate with other university students to prepare young individuals aspiring to enter the best universities in the country. Teaching is one of the most beautiful things I enjoy doing, as it allows me to share my passion for knowledge and witness the growth of my students.
+Since 2023, I’ve been working as a biology teacher in the <a href="https://www.facebook.com/AdmisionaUNAM/about"><span style="color:#515897;">**Admisión UNAM**</span></a> course. In this role, I collaborate with fellow university students to help prepare young learners who are striving to gain admission to some of the top universities in the country. Teaching is one of the things I love doing most—it’s an opportunity to share my passion for knowledge and be part of my students’ growth and development.
 
 ## **💌 Interests and Hobbies**
 
