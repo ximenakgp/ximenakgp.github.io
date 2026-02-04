@@ -14,9 +14,14 @@ output:
  
 ## **💜 About myself**
 
-I’m a Genomic Sciences student with a real passion for diving into the molecular mechanisms that make life tick. I love learning and am always eager to explore the next big thing in science.
-
-I’ve got a strong interest in molecular biology, but I’m still figuring out exactly where I want to focus my research. Transcriptional regulation is one area that really grabs my attention, but I’m also super into astrobiology and studying extremophiles. These organisms are crucial for understanding how life can survive in the harshest environments—and maybe even what life might look like beyond Earth.
+I am an undergraduate student in Genomic Sciences with a strong interest in the molecular mechanisms of gene
+regulation and host‑pathogen interactions. My research focus lies at the interface of molecular microbiology and
+functional genomics,with particular emphasis on bacterial regulatory systems,nanomachines,and protein‑protein
+interactions. I integrate experimental and computational approaches to address molecular mechanisms underlying
+host‑pathogen interactions, and I have solid training in genetics, omics sciences, molecular and cell biology, bio
+chemistry, machine learning and bioinformatics. I approach research with critical thinking, ethical responsibility,
+and astrong commitment to scientific rigor, aiming to contribute to a better understanding of infectious diseases
+and their impact on human health.
 
 ## **👩🏻‍🎓 Education**
 
@@ -30,7 +35,11 @@ High School | August 2020 - July 2023
 
 ## **🔬 Research Experience**
 
-**Center for Genomic Sciences, UNAM** | Synthetic Biology | Ayari Fuentes- Hernández Lab|Undergraduate researcher | February 2024 - July 2024
+**Center for Genomic Sciences, UNAM** | Genomic Engineering | José Eduardo Soto‑Guzmán Lab | Undergraduate researcher | March 2025 - Present
+
+**Center for Genomic Sciences, UNAM** | Computational Genomic | Daniela Elizabeth Ledezma‑Tejeida | Undergraduate researcher | February 2025 - Present
+
+**Center for Genomic Sciences, UNAM** | Synthetic Biology | Ayari Fuentes- Hernández Lab | Undergraduate researcher | February 2024 - July 2024
 
 **Center for Genomic Sciences, UNAM** | Genomic Ecology | Esperanza Martínez-Romero | Undergraduate researcher | January 2024 - July 2024
 
